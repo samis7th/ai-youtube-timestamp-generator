@@ -26,8 +26,6 @@ Este repositório foi usado como prática para explorar a integração entre fro
 
 ```env
 # Firebase
-REACT_APP_API_KEY=sua_firebase_api_key
-REACT_APP_AUTH_DOMAIN=seu_auth_domain
 REACT_APP_PROJECT_ID=seu_project_id
 REACT_APP_STORAGE_BUCKET=seu_storage_bucket
 REACT_APP_MESSAGING_SENDER_ID=seu_messaging_sender_id
